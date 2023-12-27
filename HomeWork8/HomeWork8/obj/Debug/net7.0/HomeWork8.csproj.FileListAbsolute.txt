@@ -1,0 +1,15 @@
+/Users/arturminnusin/Desktop/ORIS/HomeWork8/HomeWork8/obj/Debug/net7.0/HomeWork8.csproj.AssemblyReference.cache
+/Users/arturminnusin/Desktop/ORIS/HomeWork8/HomeWork8/obj/Debug/net7.0/HomeWork8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arturminnusin/Desktop/ORIS/HomeWork8/HomeWork8/obj/Debug/net7.0/HomeWork8.AssemblyInfoInputs.cache
+/Users/arturminnusin/Desktop/ORIS/HomeWork8/HomeWork8/obj/Debug/net7.0/HomeWork8.AssemblyInfo.cs
+/Users/arturminnusin/Desktop/ORIS/HomeWork8/HomeWork8/obj/Debug/net7.0/HomeWork8.csproj.CoreCompileInputs.cache
+/Users/arturminnusin/Desktop/ORIS/HomeWork8/HomeWork8/bin/Debug/net7.0/HomeWork8
+/Users/arturminnusin/Desktop/ORIS/HomeWork8/HomeWork8/bin/Debug/net7.0/HomeWork8.deps.json
+/Users/arturminnusin/Desktop/ORIS/HomeWork8/HomeWork8/bin/Debug/net7.0/HomeWork8.runtimeconfig.json
+/Users/arturminnusin/Desktop/ORIS/HomeWork8/HomeWork8/bin/Debug/net7.0/HomeWork8.dll
+/Users/arturminnusin/Desktop/ORIS/HomeWork8/HomeWork8/bin/Debug/net7.0/HomeWork8.pdb
+/Users/arturminnusin/Desktop/ORIS/HomeWork8/HomeWork8/obj/Debug/net7.0/HomeWork8.dll
+/Users/arturminnusin/Desktop/ORIS/HomeWork8/HomeWork8/obj/Debug/net7.0/refint/HomeWork8.dll
+/Users/arturminnusin/Desktop/ORIS/HomeWork8/HomeWork8/obj/Debug/net7.0/HomeWork8.pdb
+/Users/arturminnusin/Desktop/ORIS/HomeWork8/HomeWork8/obj/Debug/net7.0/HomeWork8.genruntimeconfig.cache
+/Users/arturminnusin/Desktop/ORIS/HomeWork8/HomeWork8/obj/Debug/net7.0/ref/HomeWork8.dll
