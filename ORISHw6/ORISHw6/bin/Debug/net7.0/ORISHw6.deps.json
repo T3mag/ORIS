@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ORISHw6/1.0.0": {
+        "runtime": {
+          "ORISHw6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ORISHw6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

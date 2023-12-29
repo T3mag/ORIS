@@ -1,0 +1,15 @@
+/Users/arturminnusin/Desktop/ORIS/ORISHw3/ORISHw3/bin/Debug/net7.0/ORISHw3
+/Users/arturminnusin/Desktop/ORIS/ORISHw3/ORISHw3/bin/Debug/net7.0/ORISHw3.deps.json
+/Users/arturminnusin/Desktop/ORIS/ORISHw3/ORISHw3/bin/Debug/net7.0/ORISHw3.runtimeconfig.json
+/Users/arturminnusin/Desktop/ORIS/ORISHw3/ORISHw3/bin/Debug/net7.0/ORISHw3.dll
+/Users/arturminnusin/Desktop/ORIS/ORISHw3/ORISHw3/bin/Debug/net7.0/ORISHw3.pdb
+/Users/arturminnusin/Desktop/ORIS/ORISHw3/ORISHw3/obj/Debug/net7.0/ORISHw3.csproj.AssemblyReference.cache
+/Users/arturminnusin/Desktop/ORIS/ORISHw3/ORISHw3/obj/Debug/net7.0/ORISHw3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arturminnusin/Desktop/ORIS/ORISHw3/ORISHw3/obj/Debug/net7.0/ORISHw3.AssemblyInfoInputs.cache
+/Users/arturminnusin/Desktop/ORIS/ORISHw3/ORISHw3/obj/Debug/net7.0/ORISHw3.AssemblyInfo.cs
+/Users/arturminnusin/Desktop/ORIS/ORISHw3/ORISHw3/obj/Debug/net7.0/ORISHw3.csproj.CoreCompileInputs.cache
+/Users/arturminnusin/Desktop/ORIS/ORISHw3/ORISHw3/obj/Debug/net7.0/ORISHw3.dll
+/Users/arturminnusin/Desktop/ORIS/ORISHw3/ORISHw3/obj/Debug/net7.0/refint/ORISHw3.dll
+/Users/arturminnusin/Desktop/ORIS/ORISHw3/ORISHw3/obj/Debug/net7.0/ORISHw3.pdb
+/Users/arturminnusin/Desktop/ORIS/ORISHw3/ORISHw3/obj/Debug/net7.0/ORISHw3.genruntimeconfig.cache
+/Users/arturminnusin/Desktop/ORIS/ORISHw3/ORISHw3/obj/Debug/net7.0/ref/ORISHw3.dll

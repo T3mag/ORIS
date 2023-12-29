@@ -1,0 +1,15 @@
+/Users/arturminnusin/Desktop/ORIS/OrisHw5/OrisHw5/bin/Debug/net7.0/OrisHw5
+/Users/arturminnusin/Desktop/ORIS/OrisHw5/OrisHw5/bin/Debug/net7.0/OrisHw5.deps.json
+/Users/arturminnusin/Desktop/ORIS/OrisHw5/OrisHw5/bin/Debug/net7.0/OrisHw5.runtimeconfig.json
+/Users/arturminnusin/Desktop/ORIS/OrisHw5/OrisHw5/bin/Debug/net7.0/OrisHw5.dll
+/Users/arturminnusin/Desktop/ORIS/OrisHw5/OrisHw5/bin/Debug/net7.0/OrisHw5.pdb
+/Users/arturminnusin/Desktop/ORIS/OrisHw5/OrisHw5/obj/Debug/net7.0/OrisHw5.csproj.AssemblyReference.cache
+/Users/arturminnusin/Desktop/ORIS/OrisHw5/OrisHw5/obj/Debug/net7.0/OrisHw5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arturminnusin/Desktop/ORIS/OrisHw5/OrisHw5/obj/Debug/net7.0/OrisHw5.AssemblyInfoInputs.cache
+/Users/arturminnusin/Desktop/ORIS/OrisHw5/OrisHw5/obj/Debug/net7.0/OrisHw5.AssemblyInfo.cs
+/Users/arturminnusin/Desktop/ORIS/OrisHw5/OrisHw5/obj/Debug/net7.0/OrisHw5.csproj.CoreCompileInputs.cache
+/Users/arturminnusin/Desktop/ORIS/OrisHw5/OrisHw5/obj/Debug/net7.0/OrisHw5.dll
+/Users/arturminnusin/Desktop/ORIS/OrisHw5/OrisHw5/obj/Debug/net7.0/refint/OrisHw5.dll
+/Users/arturminnusin/Desktop/ORIS/OrisHw5/OrisHw5/obj/Debug/net7.0/OrisHw5.pdb
+/Users/arturminnusin/Desktop/ORIS/OrisHw5/OrisHw5/obj/Debug/net7.0/OrisHw5.genruntimeconfig.cache
+/Users/arturminnusin/Desktop/ORIS/OrisHw5/OrisHw5/obj/Debug/net7.0/ref/OrisHw5.dll

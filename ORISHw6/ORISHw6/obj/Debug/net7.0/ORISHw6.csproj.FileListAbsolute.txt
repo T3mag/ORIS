@@ -1,0 +1,15 @@
+/Users/arturminnusin/Desktop/ORIS/ORISHw6/ORISHw6/bin/Debug/net7.0/ORISHw6
+/Users/arturminnusin/Desktop/ORIS/ORISHw6/ORISHw6/bin/Debug/net7.0/ORISHw6.deps.json
+/Users/arturminnusin/Desktop/ORIS/ORISHw6/ORISHw6/bin/Debug/net7.0/ORISHw6.runtimeconfig.json
+/Users/arturminnusin/Desktop/ORIS/ORISHw6/ORISHw6/bin/Debug/net7.0/ORISHw6.dll
+/Users/arturminnusin/Desktop/ORIS/ORISHw6/ORISHw6/bin/Debug/net7.0/ORISHw6.pdb
+/Users/arturminnusin/Desktop/ORIS/ORISHw6/ORISHw6/obj/Debug/net7.0/ORISHw6.csproj.AssemblyReference.cache
+/Users/arturminnusin/Desktop/ORIS/ORISHw6/ORISHw6/obj/Debug/net7.0/ORISHw6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arturminnusin/Desktop/ORIS/ORISHw6/ORISHw6/obj/Debug/net7.0/ORISHw6.AssemblyInfoInputs.cache
+/Users/arturminnusin/Desktop/ORIS/ORISHw6/ORISHw6/obj/Debug/net7.0/ORISHw6.AssemblyInfo.cs
+/Users/arturminnusin/Desktop/ORIS/ORISHw6/ORISHw6/obj/Debug/net7.0/ORISHw6.csproj.CoreCompileInputs.cache
+/Users/arturminnusin/Desktop/ORIS/ORISHw6/ORISHw6/obj/Debug/net7.0/ORISHw6.dll
+/Users/arturminnusin/Desktop/ORIS/ORISHw6/ORISHw6/obj/Debug/net7.0/refint/ORISHw6.dll
+/Users/arturminnusin/Desktop/ORIS/ORISHw6/ORISHw6/obj/Debug/net7.0/ORISHw6.pdb
+/Users/arturminnusin/Desktop/ORIS/ORISHw6/ORISHw6/obj/Debug/net7.0/ORISHw6.genruntimeconfig.cache
+/Users/arturminnusin/Desktop/ORIS/ORISHw6/ORISHw6/obj/Debug/net7.0/ref/ORISHw6.dll

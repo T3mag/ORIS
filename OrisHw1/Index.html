@@ -1,0 +1,325 @@
+ <html>
+    <head>
+        <meta charset="utf-8">
+        <title> Новая вкладка </title>
+        <style>
+            @import url('https://fonts.cdnfonts.com/css/arial-mt');
+            @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+            body{
+                background-color: #202124;
+                margin: 0px;
+            }
+            .Menu_item {
+                color: #fff;
+                text-decoration: none;
+                font-size: 13px;
+                font-family: Arial, sans-serif;
+                padding-left: 11px;
+            }
+
+            .Menu :hover{
+                text-decoration: underline;
+            }
+
+            .Container{
+                margin: 0px 0px 0px 1140px;
+            }
+            
+            .Header_line{
+                padding-top: 15px;
+                display: flex;
+                align-items: center;
+            }
+            .Apps{
+                position: relative;
+                padding-left: 26px;
+            }
+            .Circle_App{
+                position: absolute;
+                width: 20px;
+                height: 20px;
+                border-radius:50%;
+                top: 0;
+                left: 0;
+                color: #fff;
+            }
+
+            .Main_menu{
+                position: relative;
+            }
+            .Google_logo{
+                position: absolute;
+                margin-left: 584px;
+                margin-top: 188px;
+            }
+            .Search_Label{
+                background-color: #202124;
+                position: absolute;
+                top: 307px;
+                left: 430px;
+                border-radius: 22px;
+                border: 1px solid #5f6368;
+            }
+
+            .Search_Label:hover{
+                background-color: #5f6368;
+            }
+
+            input{
+                background-color: #202124;
+                border: 1px solid #5f6368;
+            }
+
+            input:hover{
+                background-color: #5f6368;
+            }
+
+            .Voice_search{
+                position: absolute;
+                top: 265.5px;
+                left: 962.5px;
+            }
+            .Text_search{
+                position: absolute;
+                color: #616468;
+                font-family: inherit;
+                font-size: inherit;
+                font-family: 'Roboto', sans-serif;
+                top: 0px;
+                left: 50px;
+                height: 44px;
+                width: 470px;
+                border: 0;
+            }
+
+            .Text_search:focus-visible{
+                border: 0px;
+                outline: 0;
+                outline-offset: 0;
+            }
+
+            .footer{
+                position: relative;
+                height: 143px;
+                background-color: #171717;
+                margin-top: 626px;
+            }
+
+            .Line{
+                position: absolute;
+                height: 1px;
+                width: 1440px;
+                background-color: #3c4043;
+                top: 47px;
+            }
+
+            .Counrty{
+                position: absolute;
+                top: 14px;
+                left: 30px;
+                font-size: 15px;
+                color: #9aa0a6;
+                font-family: Arial, sans-serif;
+            }
+
+            .Carbon_Netral_logo{
+                position: absolute;
+                top: 60px;
+                left: 520px;
+                width: 12px;
+                height: 14px;
+            }
+
+            .Carbon_Netral{
+                position: absolute;
+                top: 60px;
+                left: 540px;
+                font-size: 14px;
+                color: #9aa0a6;
+                font-family: Arial, sans-serif;
+            }
+
+            .About_Google{
+                position: absolute;
+                top: 112px;
+                left: 35px;
+                font-size: 14px;
+                color: #9aa0a6;
+                font-family: Arial, sans-serif;
+            }
+
+            .Adds{
+                position: absolute;
+                top: 112px;
+                left: 152px;
+                font-size: 14px;
+                color: #9aa0a6;
+                font-family: Arial, sans-serif;
+            }
+
+            .For_Buisnes{
+                position: absolute;
+                top: 112px;
+                left: 235px;
+                font-size: 14px;
+                color: #9aa0a6;
+                font-family: Arial, sans-serif;
+            }
+
+            .How_Work{
+                position: absolute;
+                top: 112px;
+                left: 350px;
+                font-size: 14px;
+                color: #9aa0a6;
+                font-family: Arial, sans-serif;
+            }
+
+            .Confidentiality{
+                position: absolute;
+                top: 112px;
+                left: 1081px;
+                font-size: 14px;
+                color: #9aa0a6;
+                font-family: Arial, sans-serif;
+            }
+
+            .Condition{
+                position: absolute;
+                top: 112px;
+                left: 1252px;
+                font-size: 14px;
+                color: #9aa0a6;
+                font-family: Arial, sans-serif;
+            }
+
+            .Setings{
+                position: absolute;
+                top: 112px;
+                left: 1337px;
+                font-size: 14px;
+                color: #9aa0a6;
+                font-family: Arial, sans-serif;
+            }
+
+            .Icons{
+                position: absolute;
+                top: 7px;
+                left: 452px;
+                height: 30px;
+                width: auto;
+            }
+
+            .Search_icon{
+                position: absolute;
+                top: 11px;
+                left: 11px;
+                height: 22px;
+                width: auto;
+            }
+
+            .Button_right{
+                position: absolute;
+                top: 77px;
+                left: 300px;
+                border-radius: 4px;
+                height: 36px;
+                width: 122px;
+                font-size: 14px;
+                background-color: #303134;
+                text-align: center;
+            }
+
+            .Button_left{
+                position: absolute;
+                top: 77px;
+                left: 154px;
+                border-radius: 4px;
+                height: 36px;
+                width: 134px;
+                font-size: 14px;
+                background-color: #303134;
+                text-align: center;
+            }
+
+            .Button_text{
+                font-family: Arial, Helvetica, sans-serif;
+                color: #fff;
+                vertical-align: middle;
+                margin-top: 10px;
+            }
+
+            .Button_autorisotion{
+                height: 34px;
+                width: 93px;
+                margin-left: 23px;
+                text-align: center;
+                background-color: #8ab4f8;
+                border: 1px solid transparent;
+                border-radius: 4px;
+            }
+
+            .Button_text_header{
+                font-family: Arial, Helvetica, sans-serif;
+                vertical-align: middle;
+                margin-top: 10px;
+                color: #202124;
+                font-size: 14px;
+            }
+
+        </style>
+    </head>
+    <body>
+        <div class="Header">
+            <div class="Container"> 
+                <div class="Header_line">
+                    <div class="Menu"> 
+                        <a class="Menu_item" href="https://www.google.com/intl/ru/gmail/about/"> Почта </a>
+                        <a class="Menu_item" href="https://www.google.com/imghp?hl=ru&tab=ri&ogbl"> Картинки </a>
+                    </div>
+                    <div class="Apps"> 
+                        <img src="Assets/Apps_Menu.png" alt="" width="17.5" height="17.5">
+                        <div class="Circle_App" alt = ""></div>
+                    </div>
+                    <div class="Button_autorisotion">
+                        <div class="Button_text_header"> Войти </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="Main_menu"> 
+            <div class="Google_logo">
+                <img src="Assets/Google_logo.png" alt="" width="272" height="93">
+            </div>
+            <div class= "Search_Label" style="width: 580px; height: 45px;">
+                <form class="Form" action="https://google.com/search" method="get"> 
+                    <input type="q" name="q" class="Text_search">
+                </form>
+                <img class="Icons" src="Assets/icons.png" alt="">
+                <img class="Search_icon" src="Assets/Снимок экрана 2023-09-13 в 19.28.44-PhotoRoom.png-PhotoRoom.png" alt="">
+                <div class="Button_left">
+                    <div class="Button_text">Поиск в Google </div>
+                </div>
+                <div class="Button_right">
+                    <div class="Button_text">Мне повезёт! </div>
+                </div>
+            </div>
+            
+        </div>
+
+        <footer class="footer">
+            <div class="Counrty"> Россия </div>
+            <div class="Line"></div>
+            <img class="Carbon_Netral_logo" src="Assets/tree object.png" alt="">
+            <div class="Carbon_Netral"> Наше третье десятилетие борьбы с изменением климата </div>
+            <div class="About_Google"> Все о Google </div>
+            <div class="Adds"> Реклама </div>
+            <div class="For_Buisnes"> Для бизнеса </div>
+            <div class="How_Work"> Как работает Google поиск </div>
+            <div class="Confidentiality"> Конфиденциальность </div>
+            <div class="Condition"> Условия </div>
+            <div class="Setings"> Настройки</div>
+        </footer>
+    </body>
+</html>
